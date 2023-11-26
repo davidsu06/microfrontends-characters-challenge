@@ -1,0 +1,8 @@
+{
+  "test": "Test translation",
+  "en": "Inglés",
+  "es": "Español",
+  "selectCharacters": "Selecciona qué personajes quieres cargar",
+  "rickAndMorty": "Rick y Morty",
+  "disney": "Disney"
+}
